@@ -16,5 +16,7 @@
 4. User is presented with a list of options for the license and the chosen option is displayed at the top of the READme under the section badge and a notice of what license the app is covered under is displayed in the license section.
 5. The contact information is displayed under the questions section.
 
+Link to the repo: https://github.com/Kianna41/Master-READme
+
 ## Mock- Up:
 [Untitled_ Sep 2, 2022 9_58 AM.webm](https://user-images.githubusercontent.com/107634328/188176816-bff59364-f712-49c2-8a97-155f5469c7e7.webm)
